@@ -1,4 +1,5 @@
 # Delta-demo
 this is demo for Git &amp; GitHub class
 <br>
-Author -:"Happy Muduli"
+Author -:"Happy Muduli(Apna-college)"
+
